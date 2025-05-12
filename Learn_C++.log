@@ -1,0 +1,4 @@
+﻿  Learn_C++.cpp
+C:\Users\Ferid\source\repos\Learn_C++\Learn_C++\Learn_C++.cpp(33,20): warning C4566: '\u0259' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\Ferid\source\repos\Learn_C++\Learn_C++\Learn_C++.cpp(39,13): warning C4566: '\u0259' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+  Learn_C++.vcxproj -> C:\Users\Ferid\source\repos\Learn_C++\x64\Debug\Learn_C++.exe
